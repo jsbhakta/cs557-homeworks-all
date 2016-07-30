@@ -84,7 +84,7 @@
 			<a href="hw6/index.html" target="_blank">Web Socket Test</a><br>
 			
 			<p>Homework 7<br>
-			<a href="brodcast-chat/index.html" target="_blank">Chat Broadcast - socket io</a> <br></p>
+			<a href="hw7/index.html" target="_blank">Chat Broadcast - socket io</a> <br></p>
 			
 			<p><a href="#top">Go to top</a></p>
 		</div>
