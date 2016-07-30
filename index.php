@@ -80,8 +80,10 @@
 			<a href="hw5-1.php" target="_blank">Calculator Implementaion</a><br>
 			<a href="hw5-2.php" target="_blank">Distance Calculator - Google Maps API</a> <br></p>
 			
-			<p>Homework 7<br>
+			<p>Homework 6<br>
+			<a href="hw6/index.html" target="_blank">Web Socket Test</a><br>
 			
+			<p>Homework 7<br>
 			<a href="multi-chat-server/index.html" target="_blank">Scoket.io Chat Broadcast</a> <br></p>
 			
 			<p><a href="#top">Go to top</a></p>
