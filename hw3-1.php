@@ -79,18 +79,18 @@
 			
 		</div>
 		<div id="divX">
-		<img id="dragX1" src="image\X.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragX2" src="image\X.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragX3" src="image\X.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragX4" src="image\X.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragX5" src="image\X.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragX1" src="X.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragX2" src="X.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragX3" src="X.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragX4" src="X.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragX5" src="X.png" draggable="true" ondragstart="drag(event)"><br>
 		</div>
 		<div id="divO">
-		<img id="dragO1" src="image\O.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragO2" src="image\O.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragO3" src="image\O.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragO4" src="image\O.png" draggable="true" ondragstart="drag(event)"><br>
-		<img id="dragO5" src="image\O.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragO1" src="O.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragO2" src="O.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragO3" src="O.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragO4" src="O.png" draggable="true" ondragstart="drag(event)"><br>
+		<img id="dragO5" src="O.png" draggable="true" ondragstart="drag(event)"><br>
 		</div>
 	</body>
 
