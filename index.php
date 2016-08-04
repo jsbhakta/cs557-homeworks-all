@@ -64,27 +64,30 @@
 		
 		<div id ="main">
 			<p>Homework 1<br>
-			<a href="hw1-1.php" target="_blank"> First HTML5 Page</a><br>
-			<a href="hw1-2.php" target="_blank"> Calculator UI</a></p>
+			<a href="src/hw1/hw1-1.php" target="_blank"> First HTML5 Page</a><br>
+			<a href="src/hw1/hw1-2.php" target="_blank"> Calculator UI</a></p>
 			
 			<p>Homework 2<br>
-			<a href="hw2-1.php" target="_blank">Bouncing Ball </a></p>
+			<a href="src/hw2/hw2-1.php" target="_blank">Bouncing Ball </a></p>
 				
 			<p>Homework 3<br>
-			<a href="hw3-1.php" target="_blank">Tic-Tac-Toe</a></p>
+			<a href="src/hw3/hw3-1.php" target="_blank">Tic-Tac-Toe</a></p>
 		
 			<p>Homework 4 <br>
-			<a href="hw4-1.php" target="_blank">Survey Form</a></p>
+			<a href="src/hw4/hw4-1.php" target="_blank">Survey Form</a></p>
 			
 			<p>Homework 5<br>
-			<a href="hw5-1.php" target="_blank">Calculator Implementaion</a><br>
-			<a href="hw5-2.php" target="_blank">Distance Calculator - Google Maps API</a> <br></p>
+			<a href="src/hw5/hw5-1.php" target="_blank">Calculator Implementaion</a><br>
+			<a href="src/hw5/hw5-2.php" target="_blank">Distance Calculator - Google Maps API</a> <br></p>
 			
 			<p>Homework 6<br>
 			<a href="hw6/index.html" target="_blank">Web Socket Test</a><br>
 			
 			<p>Homework 7<br>
-			<a href="hw7/index.html" target="_blank">Chat Broadcast - socket.io</a> <br></p>
+			<a href="src/hw7/index.html" target="_blank">Chat Broadcast - socket.io</a> <br></p>
+			
+			<p>Homework 10<br>
+			<a href="src/hw10/main.html" target="_blank">Device Responsive Test</a> <br></p>
 			
 			<p><a href="#top">Go to top</a></p>
 		</div>

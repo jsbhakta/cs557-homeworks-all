@@ -1,0 +1,26 @@
+{
+  "name": "brodcast-chat",
+  "version": "1.0.0",
+  "description": " chat broadcast",
+  "main": "index.js",
+  "dependencies": {
+	"express": "*",
+	"serve-static": "^1.8.0",
+	"socket.io": "1.2.0"
+  },
+  "devDependencies": {},
+  
+  "scripts": { 
+	"start": "node index.js" 
+  },
+  
+   "engines":{
+	"node":	">=0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsbhakta/cs557-homeworks-all/hw.git"
+  },
+  "author": "J Bhakta",
+  "license": "ISC"
+}
