@@ -84,7 +84,7 @@
 			<a href="hw6/index.html" target="_blank">Web Socket Test</a><br>
 			
 			<p>Homework 7<br>
-			<a href="src/hw7/index.html" target="_blank">Chat Broadcast - socket.io</a> <br></p>
+			<a href="src/hw7/index.js" target="_blank">Chat Broadcast - socket.io</a> <br></p>
 			
 			<p>Homework 10<br>
 			<a href="src/hw10/main.html" target="_blank">Device Responsive Test</a> <br></p>
