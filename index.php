@@ -74,7 +74,7 @@
 			}
 		} 
 	
-		@media (max-width: 414px) {
+		@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
 			h1{ 
 				font-size: 25px;
 			} 
