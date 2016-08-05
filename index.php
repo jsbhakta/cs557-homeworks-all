@@ -74,7 +74,7 @@
 			}
 		} 
 	
-		@media (max-width: 320px) {
+		@media (max-width: 375px) {
 			h1{ 
 				font-size: 25px;
 			} 
