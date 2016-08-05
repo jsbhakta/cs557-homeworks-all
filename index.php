@@ -1,57 +1,114 @@
 <!doctype html>
 <html>
-	<head>
-		<title> CS557 All Homework</title>
-		<style type="text/css">
+<head>
+	<title> CS557 All Homework</title>
+	<style type="text/css">
 		body {
 			background-image: url("image/bg.jpg");
 			background-size: cover;
 			background-repeat:repeat-y;
 			background-position:top center;
 			background-attachment:fixed;
-			}
+		}
 				
-					
-			td{
-			padding:20px;
-			
+		h1 { 
+			font-size: 4em;
+		} 		
+		td{
+			padding:20px;		
 			color: olivedrab;
-			}
-			
-			#main{
-				position: absolute;
-				top:50%;
-				left: 40%;
-				align: center;
-				padding:20px;
-			}
-			
-			table{
-				c;
-			}
-			 h1 { 
-			 font-size: 4em;
+		}	
+		#main{
+			position: absolute;
+			align: center;
+			padding:20px;
+			top:50%;
+			left: 40%;
+		}	
+		a{
+			color: white;
+			font-size: 25px;
+			font-weight: bold;
+			padding: 20px;
+		}
+		p{
+			color: yellow;
+			font-size: 45px;
+			font-weight: bold;
+		}
+		a:hover {
+			color: grey;
+		}
+		a:link {
+			text-decoration: none;
+		}
+		/*-----------------------media---------------*/	
+		@media (max-width: 768px) {
+				
+			h1 { 
+			 font-size: 45px;
 			 } 
-			
-			a{
-				color: white;
-				font-size: 15px;
-				font-weight: bold;
-				padding: 20px;
+			h2{
+				font-size: 25px;
+			 }
+			img {
+				width: 100%;
+				height: auto;
+			}
+			td{
+				padding:15px;
+			}
+			#main{
+				padding:5px;
+				top:35%;
+				left: 30%;
 			}
 			
 			p{
-				color: yellow;
+				font-size: 35px;
+				font-weight: bold;
+			}
+			a{
+				font-size: 20px;
+				padding: 5px;
+			}
+		} 
+	
+		@media (max-width: 320px) {
+			h1{ 
+				font-size: 25px;
+			} 
+			h2{
+				font-size: 12px;
+			}
+			img {
+				width: 100%;
+				height: auto;
+			}
+			td{
+				padding:5px;
+			}
+			#main{
+				top:25%;
+				left: 10%;
+			}
+			
+			p{
 				font-size: 25px;
 				font-weight: bold;
 			}
-		</style>
+			a{
+				font-size: 15px;
+				padding: 5px;
+			}
+		} 
+	</style>
 	</head>
 	<body>
 		<div id = "headDiv">
 			<table>
 			  <tr>
-				<td colspan = 1 rowspan = 2><img src="image\NPU Logo.png" height="250" width="250"></td>
+				<td id = "imgtd" colspan = 1 rowspan = 2><img src="image\NPU Logo.png"  width="250" height="250" ></td>
 			  </tr>
 			  <tr>
 				<td colspan = 1 rowspan = 1>
