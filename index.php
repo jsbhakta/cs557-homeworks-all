@@ -23,17 +23,17 @@
 			align: center;
 			padding:20px;
 			top:50%;
-			left: 40%;
+			left: 23%;
 		}	
 		a{
 			color: white;
-			font-size: 25px;
+			font-size: 20px;
 			font-weight: bold;
 			padding: 20px;
 		}
 		p{
 			color: yellow;
-			font-size: 45px;
+			font-size: 35px;
 			font-weight: bold;
 		}
 		a:hover {
