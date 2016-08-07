@@ -71,6 +71,7 @@
 			}
 			
 			p{
+				color: red;
 				font-size: 35px;
 				font-weight: bold;
 			}
