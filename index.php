@@ -9,6 +9,10 @@
 			background-repeat:repeat-y;
 			background-position:top center;
 			background-attachment:fixed;
+			webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover; 
 		}
 				
 		h1 { 
