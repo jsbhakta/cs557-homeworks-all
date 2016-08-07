@@ -43,7 +43,17 @@
 			text-decoration: none;
 		}
 		/*-----------------------media---------------*/	
-		@media (max-width: 768px) {
+		@media only screen 
+    and (min-device-width : 375px) // or 213.4375em
+    and (max-device-width : 667px) // or 41.6875em
+    and (width : 375px) // or 23.4375em
+    and (height : 559px) // or 34.9375em
+    and (orientation : portrait) 
+    and (color : 8)
+    and (device-aspect-ratio : 375/667)
+    and (aspect-ratio : 375/559)
+    and (device-pixel-ratio : 2)
+    and (-webkit-min-device-pixel-ratio : 2) {
 				
 			h1 { 
 			 font-size: 45px;
@@ -74,7 +84,7 @@
 			}
 		} 
 	
-		@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+		@media (max-width: 504px) {
 			h1{ 
 				font-size: 25px;
 			} 
