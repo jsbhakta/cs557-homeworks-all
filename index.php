@@ -44,8 +44,9 @@
 		}
 		/*-----------------------media---------------*/	
 @media only screen 
-    and (min-device-width : 375px) 
+    and (min-device-width : 300px) 
     and (max-device-width : 667px) 
+	 and (orientation : portrait)
    
      {
 			img {
