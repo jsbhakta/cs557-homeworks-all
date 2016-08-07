@@ -93,7 +93,7 @@
 		<div id = "headDiv">
 			<table>
 			  <tr>
-				<td id = "imgtd" colspan = 1 rowspan = 2><img src="image\NPU Logo.png"  width="250" height="250" ></td>
+				<td id = "imgtd" colspan = 1 rowspan = 2><img src="image\Logo.png"  width="250" height="250" ></td>
 			  </tr>
 			  <tr>
 				<td colspan = 1 rowspan = 1>
