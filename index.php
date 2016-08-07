@@ -32,7 +32,7 @@
 			padding: 20px;
 		}
 		p{
-			color: yellow;
+			color: SteelBlue  ;
 			font-size: 35px;
 			font-weight: bold;
 		}
@@ -43,10 +43,10 @@
 			text-decoration: none;
 		}
 		/*-----------------------media---------------*/	
-		@media only screen 
-    and (min-device-width : 375px) // or 213.4375em
-    and (max-device-width : 667px) // or 41.6875em
-    and (width : 375px) // or 23.4375em
+	@media only screen 
+    and (min-device-width : 305px) 
+    and (max-device-width : 667px) 
+    and (width : 375px) 
    
     and (orientation : portrait) 
      {
