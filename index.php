@@ -43,69 +43,45 @@
 			text-decoration: none;
 		}
 		/*-----------------------media---------------*/	
-	@media only screen 
-    and (max-width : 767px) 
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
    
      {
-				
+			img {
+				width: 350px;
+				height: auto;
+			}	
 			h1 { 
-			 font-size: 45px;
+			 font-size: 75px;
+			
 			 } 
 			h2{
-				font-size: 25px;
+				font-size: 35px;
 			 }
-			img {
-				width: 100%;
-				height: auto;
-			}
+			
 			td{
 				padding:15px;
 			}
 			#main{
-				padding:5px;
-				top:35%;
+				padding:25px;
+				top:25%;
 				left: 30%;
 			}
 			
 			p{
-				color: red;
-				font-size: 35px;
+				
+				font-size: 65px;
 				font-weight: bold;
 			}
 			a{
-				font-size: 20px;
+				font-size: 35px;
 				padding: 5px;
 			}
 		} 
 	
-		@media (max-width: 504px) {
-			h1{ 
-				font-size: 25px;
-			} 
-			h2{
-				font-size: 12px;
-			}
-			img {
-				width: 100%;
-				height: auto;
-			}
-			td{
-				padding:5px;
-			}
-			#main{
-				top:25%;
-				left: 10%;
-			}
-			
-			p{
-				font-size: 25px;
-				font-weight: bold;
-			}
-			a{
-				font-size: 15px;
-				padding: 5px;
-			}
-		} 
+		
+	
 	</style>
 	</head>
 	<body>
