@@ -44,11 +44,8 @@
 		}
 		/*-----------------------media---------------*/	
 	@media only screen 
-    and (min-device-width : 305px) 
-    and (max-device-width : 667px) 
-    and (width : 375px) 
+    and (max-width : 767px) 
    
-    and (orientation : portrait) 
      {
 				
 			h1 { 
